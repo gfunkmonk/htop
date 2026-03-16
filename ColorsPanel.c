@@ -38,6 +38,9 @@ static const char* const ColorSchemeNames[] = {
    "Black Night",
    "Broken Gray",
    "Nord",
+   "Teste",
+   "Funky",
+   "Black Sheep",
    NULL
 };
 
